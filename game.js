@@ -27,7 +27,7 @@ let score = 0;
 let gameOver = false;
 let touchStartX = 0;
 let touchMoveX = 0;
-let blockSpeed = 3;
+let blockSpeed = 5;
 
 // Initialize blocks
 function createBlocks() {
