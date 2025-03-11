@@ -19,7 +19,7 @@ let player = {
     y: canvas.height - playerSize * 2, 
     width: playerSize, 
     height: playerSize, 
-    speed: 5 
+    speed: 8
 };
 
 let blocks = [];
